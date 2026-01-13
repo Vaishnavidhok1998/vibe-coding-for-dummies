@@ -2,7 +2,9 @@
 
 GitHub scares a lot of beginners. It shouldn't. It's just a place to save your code and see what changed.
 
-This section removes the fear and shows you how to use GitHub like a pro (without being a pro).
+**Here's the good news:** Firebase Studio creates your GitHub repo for you automatically. You don't need to set it up manually.
+
+This section removes the fear and shows you how GitHub works (and how Firebase Studio makes it easy).
 
 ---
 
@@ -71,27 +73,47 @@ See Changes     →    View History
 
 ---
 
-## Lesson 2.2 — Creating Your First Repo (No Stress)
+## Lesson 2.2 — How Firebase Studio Creates Your Repo (The Easy Way)
 
-### Creating a Repo (Step by Step)
+### Firebase Studio Does It For You
 
-1. **Go to GitHub.com** and sign up (or log in)
-2. **Click the "+" icon** in the top right
-3. **Click "New repository"**
-4. **Name it:** `vibe-coding-dummy-project`
-5. **Make it public** (or private, your choice)
-6. **Don't check any boxes** (no README, no .gitignore, no license)
-7. **Click "Create repository"**
+**Here's the magic:** You don't manually create a GitHub repo. Firebase Studio does it for you.
 
-**That's it. You just created your first repo.**
+**When you publish/sync your code from Firebase Studio:**
+
+1. Firebase Studio will prompt you to connect to GitHub
+2. It will ask you to create a repo name (like `my-note-app`)
+3. Firebase Studio automatically creates the repo on GitHub
+4. Your code gets synced to that repo automatically
+
+**That's it. No manual setup. No confusion. Firebase Studio handles it.**
+
+**Note:** You can always create a GitHub repo manually first if you prefer. But for vibe coding, we use the Firebase Studio automatic approach because it removes friction and gets you building faster. That's the vibe coding way.
+
+### What You Need to Do
+
+**Before Firebase Studio can create your repo:**
+
+1. **Create a GitHub account** (if you don't have one)
+   - Go to [GitHub.com](https://github.com)
+   - Sign up (it's free)
+   - That's it
+
+2. **Connect GitHub to Firebase Studio**
+   - When Firebase Studio asks to connect, authorize it
+   - This lets Firebase Studio create repos for you
+
+**That's all the setup you need. Firebase Studio does the rest.**
 
 ### Naming Your Repo
 
+When Firebase Studio asks for a repo name, use something descriptive:
+
 **Good names:**
-- `my-first-app`
-- `note-saver`
+- `my-note-app`
 - `habit-tracker`
-- `vibe-coding-dummy-project`
+- `idea-saver`
+- `resource-bookmarker`
 
 **Bad names:**
 - `project`
@@ -101,40 +123,32 @@ See Changes     →    View History
 
 **Rule:** Name it what it does, not what it is.
 
-### README-First Mindset
+### Keep Your Repos Private (Important!)
 
-Every repo should have a README. It's like a note to yourself (and others) about what the project is.
+**When Firebase Studio creates your repo, make it private.**
 
-**Your README should answer:**
-- What is this?
-- What does it do?
-- How do I use it?
+**Why?**
+- Your code is yours (you might not want it public)
+- You might have API keys or sensitive info (we'll cover .gitignore later)
+- Private repos are free on GitHub
 
-**Example README:**
+**How to make it private:**
+- When Firebase Studio asks, select "Private repository"
+- Or change it later in GitHub settings
 
-```markdown
-# My First Vibe App
+**Don't commit secret keys or sensitive information.** We'll learn about .gitignore later to handle this properly.
 
-A simple app that lets users save notes.
+### What Happens After Firebase Studio Creates Your Repo
 
-## What It Does
+**Once Firebase Studio creates your repo:**
 
-Users can:
-- Sign up and log in
-- Create notes
-- View their notes
-- Delete notes
+1. Your code is on GitHub (safe and backed up)
+2. You can clone it to your computer
+3. You can open it in Cursor
+4. You can work on it locally
+5. You can commit changes and push them back
 
-## How to Use
-
-1. Sign up for an account
-2. Create a note
-3. View your notes
-
-Built with Firebase Studio, GitHub, and Cursor.
-```
-
-**That's it. Simple. Clear. Helpful.**
+**Firebase Studio made it easy. Now you can use GitHub like a pro.**
 
 ### Using GitHub as a Project Map
 
@@ -148,66 +162,22 @@ GitHub isn't just for saving code. It's for tracking your project.
 
 **Each commit is a milestone. Together, they're your project's history.**
 
-### The Workflow You'll Use
-
-1. **Build something** (in Firebase Studio or Cursor)
-2. **Commit it** (save it to GitHub)
-3. **Write a commit message** (what did you do?)
-4. **Push it** (upload to GitHub)
-
-**Repeat.**
-
-**That's the build, commit, deploy loop. Simple.**
-
----
-
-## 🎯 Exercise: Create Your First Repo
-
-**Do this right now:**
-
-1. Create a GitHub account (if you don't have one)
-2. Create a repo called: `vibe-coding-dummy-project`
-3. Add a README with:
-   - What you want to build (from Section 0)
-   - Why you're building it
-   - What you hope to learn
-
-**Don't overthink it. Just create it.**
-
-**Example README:**
-
-```markdown
-# Vibe Coding Dummy Project
-
-This is my first vibe coding project.
-
-## What I Want to Build
-
-[Your one-sentence idea from Section 0]
-
-## Why I'm Building This
-
-[Why this matters to you]
-
-## What I Hope to Learn
-
-- How to build and ship real software
-- How to use Firebase Studio
-- How to use GitHub
-- How to use Cursor with AI
-
-Let's see what happens! 🚀
-```
-
-**That's your first repo. You're officially using GitHub.**
-
 ---
 
 ## 🎯 Action Step
 
-**Create your repo and README now.**
+**Before you build your first app:**
 
-Don't wait. Don't overthink it. Just create it.
+1. **Create a GitHub account** (if you don't have one)
+   - Go to [GitHub.com](https://github.com)
+   - Sign up (it's free)
+   - Verify your email
+
+2. **That's it!** Firebase Studio will handle the rest when you publish your first app.
+
+**You don't need to create a repo manually. Firebase Studio will do it for you when you sync your code.**
+
+**This is the vibe coding way:** Remove friction. Let the tools do the setup. Focus on building, not configuring.
 
 **Next:** [SECTION 3 — Cursor: Your AI Co-Builder](./04-cursor.md)
 

@@ -138,15 +138,44 @@ Firebase Studio flips this:
 
 **You spend 3 minutes setting up and hours building.**
 
-### The Workflow
+### The Actual Workflow (This Is Key)
 
-Here's how you'll actually use it:
+Here's the exact workflow I use (and you'll use too):
 
-1. **Start in Firebase Studio** — Build the initial version, get comfortable
-2. **Move to GitHub + Cursor** — Build faster, refactor, let AI help
-3. **Deploy from Firebase Studio** — Ship it live
+**Step 1: Start in Firebase Studio**
+- Create your project in Firebase Studio
+- Get the backend, auth, database, and hosting set up
+- This is the "boring but important stuff" — Firebase handles it
+- Build the initial version here to get comfortable
+
+**Step 2: Firebase Studio Creates Your GitHub Repo (Automatic!)**
+- When you publish/sync your code from Firebase Studio, it will ask you to create a GitHub repo
+- You just enter a repo name (like `my-note-app`)
+- Firebase Studio automatically creates the repo and syncs your code to it
+- **You don't manually create the repo. Firebase Studio does it for you.**
+- **Important:** Keep your repos private (don't commit secret keys or sensitive info)
+
+**Step 3: Move to Cursor**
+- Clone the GitHub repo to your computer
+- Open it in Cursor
+- This is where you move fast, refactor, and let AI help
+- Cursor understands your entire codebase, so building is faster
+
+**Step 4: Sync Back and Deploy**
+- When it's time to ship, commit your changes to GitHub
+- Sync everything back to Firebase Studio
+- Deploy from Firebase Studio (one-click deployment)
+- Your app is live
 
 **That loop is the whole game: Build it. Commit it. Deploy it. Repeat.**
+
+**Why this workflow works:**
+- Firebase Studio removes setup friction (start building immediately)
+- Firebase Studio removes GitHub setup friction (creates repo for you automatically)
+- GitHub + Cursor removes building friction (AI helps you build fast)
+- Firebase Studio removes deployment friction (one-click ship)
+
+**You don't fight the tools. You use each tool for what it's best at.**
 
 ### Setting Up Firebase Studio
 

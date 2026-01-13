@@ -113,15 +113,17 @@ Shipping is the difference between a hobby and a real project.
 - Test the core features
 - Fix critical bugs (non-critical bugs can wait)
 
-**Step 2: Prepare for deployment**
-- In Firebase Studio, go to Hosting
-- Click "Get started"
-- Follow the setup instructions
+**Step 2: Sync to GitHub (if you haven't already)**
+- When you publish/sync from Firebase Studio, it will ask you to create a GitHub repo
+- Enter a repo name (like `my-note-app`)
+- **Make it private** (don't commit secret keys or sensitive info)
+- Firebase Studio automatically creates the repo and syncs your code
 
 **Step 3: Deploy**
-- Firebase will give you commands to run
-- Run them in your terminal
-- Wait for deployment to complete
+- In Firebase Studio, go to Hosting
+- Click "Deploy" or "Publish"
+- Firebase Studio handles the deployment
+- Wait for it to complete
 
 **Step 4: Get your live URL**
 - Firebase gives you a URL like: `your-app-name.web.app`
@@ -129,6 +131,8 @@ Shipping is the difference between a hobby and a real project.
 - Share it with the world
 
 **That's it. Your app is live.**
+
+**Note:** If you've been working in Cursor, make sure you've committed and pushed your changes to GitHub, then sync back to Firebase Studio before deploying.
 
 ### Seeing Your App in the Wild
 
@@ -169,16 +173,26 @@ Not a "learner." Not a "beginner." A builder.
 - **Fix:** Check your build commands in Firebase
 - **Fix:** Make sure all dependencies are installed
 - **Fix:** Check for syntax errors
+- **Ask Cursor:** "I'm getting build errors when deploying. Here's the error: [error]. Help me fix it."
 
 **Issue 2: Environment variables**
 - **Fix:** Make sure Firebase config is set up correctly
 - **Fix:** Check that API keys are included
+- **Fix:** Verify your Firebase project settings match your code
 
 **Issue 3: Routing issues**
 - **Fix:** Configure Firebase hosting rewrites if needed
 - **Fix:** Make sure your app handles routes correctly
+- **Fix:** Check that file paths are relative, not absolute
+
+**Issue 4: App works locally but not deployed**
+- **Fix:** Check browser console on deployed site for errors
+- **Fix:** Verify Firebase config matches your project
+- **Fix:** Make sure all files are included in deployment
 
 **Most issues are simple fixes. Don't let deployment stop you from shipping.**
+
+**For more help:** Check the [Troubleshooting Guide](./09-troubleshooting.md) or ask in the [Skool community](https://www.skool.com/vibe-coding-with-chris-7196).
 
 ---
 

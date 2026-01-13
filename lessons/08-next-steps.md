@@ -242,3 +242,10 @@ This section shows you what's next and how to keep building.
 
 *Built by [Chris Porter](https://www.skool.com/vibe-coding-with-chris-7196) | [Vibe Coding with Chris](https://www.skool.com/vibe-coding-with-chris-7196)*
 
+---
+
+## 📚 Additional Resources
+
+- **[Quick Reference Guide](../QUICK-REFERENCE.md)** — Cheat sheet for when you need a reminder
+- **[Troubleshooting Guide](./09-troubleshooting.md)** — Common issues and how to fix them
+

@@ -60,6 +60,12 @@ This course shows you how to build and ship real software using AI, without trad
 - Lesson 7.1 — Why This GitHub Course Is Only the Beginning
 - Lesson 7.2 — Join the Vibe Coding Community
 
+### 🔧 [TROUBLESHOOTING — When Things Break](./lessons/09-troubleshooting.md)
+- Common Firebase issues
+- Common Cursor issues
+- Common GitHub issues
+- How to ask for help
+
 ---
 
 ## 💡 The Vibe Coding Philosophy
@@ -85,6 +91,21 @@ This course shows you how to build and ship real software using AI, without trad
 3. **Cursor** — AI-powered code editor that understands your project
 
 You don't need $300/month in tools. You need these three.
+
+### The Workflow
+
+**Here's how you'll actually use them:**
+
+1. **Start in Firebase Studio** — Get backend/auth/database set up (removes setup friction)
+2. **Publish/Sync** — Firebase Studio creates your GitHub repo automatically (removes GitHub setup friction)
+3. **Move to Cursor** — Clone the repo, build fast with AI (removes building friction)
+4. **Sync back to Firebase Studio** — Deploy and ship (removes deployment friction)
+
+**Build it. Commit it. Deploy it. Repeat.**
+
+**Key point:** Firebase Studio creates your GitHub repo for you when you publish/sync. You don't manually create it. Keep repos private and don't commit secret keys.
+
+Each tool does what it's best at. You don't fight the tools.
 
 ---
 
@@ -118,7 +139,8 @@ This is the exact workflow I use to build and ship software that makes money.
 1. **Read each lesson** — Don't skip ahead
 2. **Do the exercises** — Actually build, don't just read
 3. **Ship something** — Even if it's ugly (especially if it's ugly)
-4. **Join the community** — Get daily support and keep building
+4. **Use the quick reference** — [Quick Reference Guide](./QUICK-REFERENCE.md) for when you need a reminder
+5. **Join the community** — Get daily support and keep building
 
 ---
 

@@ -94,9 +94,27 @@ Your first build should be so simple that you feel almost embarrassed by it. Tha
 
 ## Lesson 4.2 — Scaffolding the App with AI
 
+### The Two-Path Approach
+
+**You have two options for your first build:**
+
+#### Path 1: Start in Firebase Studio (Recommended for First Build)
+- Create your project in Firebase Studio
+- Use the built-in editor to get started
+- Get comfortable with how things connect
+- Then move to Cursor when you're ready to build faster
+
+#### Path 2: Start in Cursor (If You're Comfortable)
+- Create a new folder for your project
+- Open that folder in Cursor
+- Ask Cursor to scaffold everything
+- Push to GitHub as you build
+
+**For your first build, I recommend Path 1. Get comfortable with Firebase Studio first, then level up to Cursor.**
+
 ### Letting Cursor Generate Structure
 
-**Here's how you'll build:**
+**If you're using Cursor (Path 2), here's how:**
 
 1. **Open Cursor**
 2. **Create a new folder** for your project
@@ -105,7 +123,7 @@ Your first build should be so simple that you feel almost embarrassed by it. Tha
 
 **Example prompt:**
 
-"I want to build a simple note-taking app. Users should be able to log in, create notes with a title and content, and see all their notes. Use Firebase for authentication and database, and create a simple web app."
+"I want to build a simple note-taking app. Users should be able to log in, create notes with a title and content, and see all their notes. Use Firebase for authentication and database (Firestore), and create a simple web app with HTML, CSS, and JavaScript."
 
 **Cursor will:**
 - Create the file structure
@@ -116,6 +134,20 @@ Your first build should be so simple that you feel almost embarrassed by it. Tha
 - Set up the basic styling
 
 **You don't write any code. You describe what you want, and Cursor builds it.**
+
+### Starting in Firebase Studio First
+
+**If you're starting in Firebase Studio (Path 1):**
+
+1. **Create your project** in Firebase Studio
+2. **Enable Authentication** (Email/Password)
+3. **Create a Firestore database**
+4. **Use the built-in code editor** to start building
+5. **Get comfortable** with how auth and database work
+6. **When you publish/sync**, Firebase Studio will create your GitHub repo automatically
+7. **Then move to Cursor** by cloning the GitHub repo to your computer
+
+**The key:** Start simple. Get it working. Firebase Studio handles the GitHub setup for you.
 
 ### Accepting "Ugly First"
 
@@ -293,4 +325,6 @@ Use Firebase for authentication and database (Firestore). Create a simple web ap
 ---
 
 **Next:** [SECTION 5 — Shipping (Most People Never Get Here)](./06-ship.md)
+
+**Having issues?** Check out the [Troubleshooting Guide](./09-troubleshooting.md) for common fixes.
 

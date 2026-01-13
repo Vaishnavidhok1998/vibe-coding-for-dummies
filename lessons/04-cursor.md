@@ -124,13 +124,31 @@ You (the thinker)     Cursor (the builder)
 
 **Building a note app:**
 
-✅ "I want users to be able to create notes. Each note should have a title and content. Notes should be saved to Firebase."
+✅ "I want users to be able to create notes. Each note should have a title and content. Notes should be saved to Firebase Firestore."
 
-✅ "When a user clicks 'New Note', show them a form where they can enter a title and content. When they submit, save it to Firebase and show it in their list of notes."
+✅ "When a user clicks 'New Note', show them a form where they can enter a title and content. When they submit, save it to Firebase Firestore and show it in their list of notes."
 
-✅ "I want users to be able to delete notes. Add a delete button to each note. When clicked, remove it from Firebase and update the list."
+✅ "I want users to be able to delete notes. Add a delete button to each note. When clicked, remove it from Firebase Firestore and update the list."
+
+✅ "I want users to be able to edit their existing notes. Add an edit button that lets them change the title and content, then save the changes to Firebase."
 
 **Notice:** All of these describe behavior, not code.
+
+### More Real-World Examples
+
+**For a habit tracker:**
+
+✅ "I want users to be able to create a daily habit list. Each habit should have a name and a checkbox. When they check it off, save that they completed it today in Firebase."
+
+✅ "Show users a list of their habits. Display how many days in a row they've completed each habit. Get this data from Firebase Firestore."
+
+**For a resource bookmarker:**
+
+✅ "I want users to be able to save links. They enter a URL and a title. Save it to Firebase. Show all their saved links in a list."
+
+✅ "When a user clicks a saved link, open it in a new tab. Also track how many times each link has been clicked and show that number."
+
+**The pattern:** Describe what should happen, mention Firebase/Firestore, and be specific about the user experience.
 
 ### Iterative Building
 

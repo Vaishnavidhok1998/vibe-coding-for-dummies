@@ -125,9 +125,14 @@ Before moving to Section 1, answer this:
 
 Write it in one sentence. No tech words. Just what you want it to do.
 
-Example: "I want something that helps people track their daily habits without using spreadsheets."
+**Examples:**
+- "I want something that helps people track their daily habits without using spreadsheets."
+- "I want an app where I can save ideas and see them later."
+- "I want a simple tool that lets me save links to resources I want to remember."
 
 **That's your first project idea. We'll come back to it in Section 4.**
+
+**Don't overthink it. Just write one sentence.**
 
 ---
 
