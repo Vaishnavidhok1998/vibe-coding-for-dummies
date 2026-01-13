@@ -1,16 +1,16 @@
-# 📘 Vibe Coding for Dummies
-
 <div align="center">
 
-![Chris Porter](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1768274923843-ChatGPT%20Image%20Jan%2012%2C%202026%2C%2010_28_19%20PM.png?alt=media&token=ed392466-0616-4781-94b0-a829268f3f23)
-
-**Build real software without being a "coder"**
+# 📘 Vibe Coding for Dummies
 
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![Cursor](https://img.shields.io/badge/Cursor-AI--Powered-00A4EF?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.sh/)
 [![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-brightgreen?style=for-the-badge)](./lessons/01-mindset.md)
 [![Free](https://img.shields.io/badge/Free-Start-00C853?style=for-the-badge)](./lessons/02-tools.md)
+
+![Chris Porter](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1768274923843-ChatGPT%20Image%20Jan%2012%2C%202026%2C%2010_28_19%20PM.png?alt=media&token=ed392466-0616-4781-94b0-a829268f3f23)
+
+**Build real software without being a "coder"**
 
 </div>
 
