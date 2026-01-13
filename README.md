@@ -11,7 +11,6 @@
 [![Cursor](https://img.shields.io/badge/Cursor-AI--Powered-00A4EF?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.sh/)
 [![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-brightgreen?style=for-the-badge)](./lessons/01-mindset.md)
 [![Free](https://img.shields.io/badge/Free-Start-00C853?style=for-the-badge)](./lessons/02-tools.md)
-[![30 Days](https://img.shields.io/badge/Goal-30%20Days-orange?style=for-the-badge)](./lessons/07-monetize.md)
 
 </div>
 
