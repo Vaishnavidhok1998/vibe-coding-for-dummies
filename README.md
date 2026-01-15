@@ -14,23 +14,25 @@
 
 ---
 
-### 🚀 **This Course Gets You Started. The Community Makes You a Pro.**
+<div align="center">
 
-**Stop learning alone.** Join 100+ builders in the [Vibe Coding with Chris Skool community](https://www.skool.com/vibe-coding-with-chris-7196) and get:
+### 🎁 **This Full Course is 100% Free**
 
-- ✅ **Daily build walkthroughs** — See real projects built step-by-step
-- ✅ **Live feedback on your work** — Get unstuck fast
-- ✅ **Shipping accountability** — Actually ship instead of just learning
-- ✅ **Monetization strategies** — Turn your apps into real income
-- ✅ **Access to Chris** — Direct support from someone who builds for a living
+**Everything you need to build and ship your first app is right here in this GitHub repo.** No paywall. No gatekeeping. Just the complete vibe coding workflow.
 
-**$15/month. No gatekeeping. Just building.**
+### 🚀 **Want to Level Up? Join the Skool Community**
 
-**[👉 Join the Community →](https://www.skool.com/vibe-coding-with-chris-7196)**
+**This course teaches you the basics. The [Vibe Coding with Chris Skool community](https://www.skool.com/vibe-coding-with-chris-7196) shows you the secrets.**
 
----
+Inside, you'll see exactly how I build projects that generate passive income, my real workflow for turning simple apps into money-makers, advanced strategies I don't share publicly, and how to scale from one app to a portfolio of income-generating projects.
+
+**$15/month gets you access to everything I know about building software that makes money.**
+
+**[👉 Join the Community and See the Secrets →](https://www.skool.com/vibe-coding-with-chris-7196)**
 
 </div>
+
+---
 
 ---
 
