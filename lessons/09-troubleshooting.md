@@ -208,3 +208,4 @@ Things will break. That's normal. This section helps you fix the most common iss
 
 *Stuck? Join the [Vibe Coding with Chris Skool community](https://www.skool.com/vibe-coding-with-chris-7196) for help and support.*
 
+
